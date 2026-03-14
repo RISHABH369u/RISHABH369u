@@ -1,23 +1,29 @@
-<!-- ============================================================ -->
-<!--           ULTIMATE GITHUB PROFILE - ADITYA BARMAN           -->
-<!-- ============================================================ -->
+<!-- ################################################################ -->
+<!--          ADITYA BARMAN — GITHUB PROFILE README v3.0            -->
+<!--                  Theme: Cyberpunk Teal/Cyan                     -->
+<!-- ################################################################ -->
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=19,20,21&height=220&section=header&text=Aditya%20Barman&fontSize=75&fontColor=A855F7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Social%20Impact%20Builder&descAlignY=58&descSize=18&descColor=7C3AED&stroke=A855F7&strokeWidth=2"/>
-
-<div align="center">
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A855F7&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=const+aditya+%3D+new+FullStackDev(%22Shahdol+MP%22)%3B;%F0%9F%9A%80+Building+real+things+that+matter...;%F0%9F%90%84+Deployed+NGO+site+with+CDN+%40+age+20;%E2%9A%A1+BSc+CS+%7C+React+%7C+TypeScript+%7C+Java;%F0%9F%8C%99+Dark+mode+is+not+optional+%E2%80%94+it%27s+a+lifestyle;%F0%9F%94%A5+246+contributions+%26+still+going+strong)](https://git.io/typing-svg)
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aditya%20Barman&fontSize=70&fontColor=00FFFF&animation=blinking&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20Social%20Impact%20Builder%20%E2%80%A2%20Shahdol%20MP%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=80&descSize=15&descColor=ffffff"/>
 
 <br/>
 
-<!-- STATUS BADGES -->
-![](https://komarev.com/ghpvc/?username=RISHABH369u&label=👁%20Profile%20Views&color=7C3AED&style=flat-square)
-![](https://img.shields.io/badge/Age-20-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Location-Shahdol%2C%20MP%20🇮🇳-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
-![](https://img.shields.io/badge/Vibes-Dark%20%26%20Purple%20🌙-7C3AED?style=flat-square)
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%96%B6+Initializing+Aditya.exe...;%E2%96%B6+BSc+CS+%7C+20yo+%7C+Shahdol+MP+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+React+%2B+TypeScript+%2B+Vite+%2B+Cloudflare;%E2%96%B6+Built+NGO+website+with+CDN+at+age+20+%F0%9F%94%A5;%E2%96%B6+246%2B+contributions+%26+still+grinding...;%E2%96%B6+console.log(%22Building+things+that+matter%22)%3B)](https://git.io/typing-svg)
+
+</div>
+
+<!-- PROFILE BADGES -->
+<div align="center">
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=RISHABH369u&label=PROFILE+VIEWS&color=00ffff&style=flat-square)&nbsp;
+![age](https://img.shields.io/badge/AGE-20-00ffff?style=flat-square)&nbsp;
+![location](https://img.shields.io/badge/LOCATION-Shahdol_MP_🇮🇳-00ffff?style=flat-square)&nbsp;
+![status](https://img.shields.io/badge/STATUS-Open_To_Work-00ff88?style=flat-square)&nbsp;
+![edu](https://img.shields.io/badge/EDU-BSc_CS-00ffff?style=flat-square)
 
 </div>
 
@@ -25,73 +31,74 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ══════════════════ SECTION 1: ABOUT ══════════════════ -->
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
+<table>
+<tr>
+<td width="55%">
 
-### `> whoami`
+## `$ cat about_me.txt`
 
-```javascript
-{
-  "name"     : "Aditya Barman",
-  "alias"    : "RISHABH369u",
-  "age"      : 20,
-  "location" : "Shahdol, Madhya Pradesh 🇮🇳",
-  "degree"   : "BSc Computer Science",
-  "role"     : "Full Stack Developer",
-  "vibe"     : "🌙 Dark mode only, always",
+```yaml
+Name     : Aditya Barman
+Handle   : @RISHABH369u
+Age      : 20 years
+Location : Shahdol, Madhya Pradesh 🇮🇳
+Degree   : BSc Computer Science
 
-  "stack": {
-                   BEST IN USING AI
-    "frontend" : ["React", "TypeScript", "Vite", "Tailwind"],
-    "tools"    : ["GitHub Actions", "Cloudflare CDN", "Git"],
-    "learning" : ["Next.js", "Node.js", "DSA", "Spring Boot"]
-  },
+Roles:
+  - Full Stack Developer
+  - Social Impact Builder
+  - Open Source Enthusiast
 
-  "currently_building": [
-    "🐄 NGO Website — atalkaamdhenugauseva.org",
-    "🚌 CampusBus — real-time bus tracker"
-  ],
+Currently Building:
+  → atalkaamdhenugauseva.org (NGO website)
+  → CampusBus (real-time bus tracker)
 
-  "fun_facts": [
-    "Deployed CDN-powered website before completing 1st year",
-    "Built a real client project at age 20 🤯",
-    "246+ GitHub contributions and counting 🔥",
-    "Prefers console.log() over sleep() 😅"
-  ]
-}
+Fun Facts:
+  → Deployed CDN site before 2nd semester 🤯
+  → 246+ GitHub contributions & counting
+  → Built real client project at age 20
+  → console.log() > sleep() 😂
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ══════════════════ SECTION 2: CONNECT ══════════════════ -->
+
+## `$ ./social --connect`
 
 <div align="center">
 
-### `> ./connect.sh`
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.rishabh64)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-barman-7aa397302/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://rishabh369u.github.io/side_Portfolio)
-[![NGO Website](https://img.shields.io/badge/🐄_NGO_Site-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atalkaamdhenugauseva.org)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d.rishabh64)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-barman-7aa397302/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://rishabh369u.github.io/side_Portfolio)
+[![NGO](https://img.shields.io/badge/🐄_NGO_SITE-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atalkaamdhenugauseva.org)
 
 </div>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ══════════════════ SECTION 3: PROJECTS ══════════════════ -->
 
-<h2 align="center">🚀 <code>ls ~/projects</code></h2>
+## `$ ls -la ~/projects/`
 
 <div align="center">
 
 <a href="https://github.com/RISHABH369u/atalkaamdhenugauseva.org">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RISHABH369u&repo=atalkaamdhenugauseva.org&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RISHABH369u&repo=atalkaamdhenugauseva.org&theme=dark&border_color=00ffff&bg_color=0a0f1e&title_color=00ffff&icon_color=00ffff&text_color=ffffff&show_owner=false" />
+</a>&nbsp;
 <a href="https://github.com/RISHABH369u/CampusBus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RISHABH369u&repo=CampusBus&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RISHABH369u&repo=CampusBus&theme=dark&border_color=00ffff&bg_color=0a0f1e&title_color=00ffff&icon_color=00ffff&text_color=ffffff&show_owner=false" />
 </a>
 
 </div>
@@ -100,166 +107,136 @@
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|:-------:|:-----------:|:-----:|:------:|
-| 🐄 [**atalkaamdhenugauseva.org**](https://atalkaamdhenugauseva.org) | NGO site — 4000+ rescued cows | React · TS · Vite · Cloudflare | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 🚌 [**CampusBus**](https://rishabh369u.github.io/CampusBus) | Real-time campus bus tracker | HTML · CSS · JS | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 💼 [**Portfolio**](https://rishabh369u.github.io/side_Portfolio) | Personal developer portfolio | HTML · CSS | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 🏠 **THE_MINIRENT** | Mini rental platform | HTML · CSS · JS | ![](https://img.shields.io/badge/🔒-Private-7C3AED?style=flat-square) |
+| ⬡ | Project | About | Stack | |
+|:---:|:--------|:------|:------|:---:|
+| 🐄 | **[atalkaamdhenugauseva.org](https://atalkaamdhenugauseva.org)** | NGO site — 4000+ rescued cows, 10+ cities | `React` `TypeScript` `Vite` `Cloudflare CDN` | [![](https://img.shields.io/badge/-LIVE-00ff88?style=flat-square)](https://atalkaamdhenugauseva.org) |
+| 🚌 | **[CampusBus](https://rishabh369u.github.io/CampusBus)** | Real-time campus bus tracker with live ETA | `HTML` `CSS` `JavaScript` | [![](https://img.shields.io/badge/-LIVE-00ff88?style=flat-square)](https://rishabh369u.github.io/CampusBus) |
+| 💼 | **[Portfolio](https://rishabh369u.github.io/side_Portfolio)** | Personal developer portfolio | `HTML` `CSS` | [![](https://img.shields.io/badge/-LIVE-00ff88?style=flat-square)](https://rishabh369u.github.io/side_Portfolio) |
+| 🏠 | **THE_MINIRENT** | Mini property rental platform | `HTML` `CSS` `JS` | [![](https://img.shields.io/badge/-PRIVATE-555?style=flat-square)](#) |
 
 </div>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ══════════════════ SECTION 4: TECH STACK ══════════════════ -->
 
-<h2 align="center">⚡ <code>cat tech_stack.json</code></h2>
+## `$ cat tech_stack.json`
 
 <div align="center">
 
-**🎨 Frontend**
+### Frontend
+![React](https://img.shields.io/badge/React-0a0f1e?style=for-the-badge&logo=react&logoColor=00ffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0f1e?style=for-the-badge&logo=typescript&logoColor=00ffff)
+![Vite](https://img.shields.io/badge/Vite-0a0f1e?style=for-the-badge&logo=vite&logoColor=00ffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0f1e?style=for-the-badge&logo=tailwind-css&logoColor=00ffff)
+![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=00ffff)
+![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=for-the-badge&logo=css3&logoColor=00ffff)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=00ffff)
+![Java](https://img.shields.io/badge/Java-0a0f1e?style=for-the-badge&logo=openjdk&logoColor=00ffff)
 
-**💻 Languages**
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-0a0f1e?style=for-the-badge&logo=git&logoColor=00ffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0f1e?style=for-the-badge&logo=githubactions&logoColor=00ffff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0f1e?style=for-the-badge&logo=cloudflare&logoColor=00ffff)
+![VSCode](https://img.shields.io/badge/VS_Code-0a0f1e?style=for-the-badge&logo=visualstudiocode&logoColor=00ffff)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**🔧 DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**🔭 Currently Learning**
-
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### 🔭 Learning Now
+![Next.js](https://img.shields.io/badge/Next.js-0a0f1e?style=for-the-badge&logo=next.js&logoColor=00ffff)
+![Node.js](https://img.shields.io/badge/Node.js-0a0f1e?style=for-the-badge&logo=nodedotjs&logoColor=00ffff)
+![Spring](https://img.shields.io/badge/Spring-0a0f1e?style=for-the-badge&logo=spring&logoColor=00ffff)
 
 </div>
 
 ---
 
-<!-- ===================== DEV CARD (NO SETUP NEEDED!) ===================== -->
+<!-- ══════════════════ SECTION 5: GITHUB STATS ══════════════════ -->
 
-<h2 align="center">🧑‍💻 <code>dev --card</code></h2>
+## `$ git log --stat --summary`
 
 <div align="center">
 
-<!-- This auto-generates from GitHub data — zero setup! -->
-<a href="https://app.daily.dev/rishabh369u">
-  <img src="https://api.daily.dev/devcards/v2/rishabh369u.png?r=1qo&type=wide" width="652" alt="Aditya Barman's Dev Card"/>
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RISHABH369u&show_icons=true&count_private=true&include_all_commits=true&theme=dark&border_color=00ffff&bg_color=0a0f1e&title_color=00ffff&icon_color=00ffff&text_color=ffffff&ring_color=00ffff"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH369u&layout=compact&langs_count=8&theme=dark&border_color=00ffff&bg_color=0a0f1e&title_color=00ffff&text_color=ffffff"/>
 
-> 💡 **daily.dev** — A developer news feed card. Sign up at [daily.dev](https://daily.dev) with your GitHub → your card auto-generates! Shows your reading streak, tags, and rank.
+</div>
 
+<div align="center">
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=RISHABH369u&theme=dark&border=00ffff&background=0a0f1e&ring=00ffff&fire=00ff88&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&stroke=00ffff&sideNums=ffffff&currStreakNum=ffffff"/>
 </div>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ══════════════════ SECTION 6: TROPHIES ══════════════════ -->
 
-<h2 align="center">📊 <code>git log --stats</code></h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHABH369u&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH369u&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD"/>
-
-</div>
+## `$ cat trophy_case.json`
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH369u&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RISHABH369u&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </div>
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
+<!-- ══════════════════ SECTION 7: ACTIVITY GRAPH ══════════════════ -->
 
-<h2 align="center">🏆 <code>cat achievements.log</code></h2>
+## `$ git log --graph --oneline`
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RISHABH369u&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHABH369u&bg_color=0a0f1e&color=00ffff&line=00ffff&point=00ff88&area_color=00ffff&area=true&hide_border=false&border_color=00ffff&custom_title=Aditya%27s%20Contribution%20Graph%202026"/>
 </div>
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ══════════════════ SECTION 8: NGO HIGHLIGHT ══════════════════ -->
 
-<h2 align="center">📈 <code>git log --graph --all</code></h2>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHABH369u&bg_color=0D1117&color=A855F7&line=7C3AED&point=C4B5FD&area_color=7C3AED&area=true&hide_border=true&custom_title=Aditya's%20Contribution%20Graph"/>
-</div>
-
----
-
-<!-- ===================== SNAKE ===================== -->
-
-<h2 align="center">🐍 <code>snake --eat-contributions</code></h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISHABH369u/RISHABH369u/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISHABH369u/RISHABH369u/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/RISHABH369u/RISHABH369u/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
----
-
-<!-- ===================== NGO SPECIAL ===================== -->
+## `$ cat impact.log`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              🐄  REAL WORLD IMPACT PROJECT  🐄               ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   At 20 years old, I built a production-grade website for   ║
-║   Atal Kaamdhenu Gauseva Sansthan — an NGO that has          ║
-║   rescued 4000+ cows across 10+ cities in MP, India.        ║
-║                                                              ║
-║   Stack: React + TypeScript + Vite + GitHub Actions          ║
-║          CI/CD + Cloudflare CDN + Custom Domain              ║
-║                                                              ║
-║   "Sometimes the best projects aren't for a grade —         ║
-║    they're for a cause." 🙏                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🐄  REAL WORLD IMPACT — PRODUCTION PROJECT @ AGE 20  🐄  │
+│                                                             │
+│   Client  :  Atal Kaamdhenu Gauseva Sansthan (NGO)         │
+│   Impact  :  4000+ cows rescued across 10+ cities in MP    │
+│   Stack   :  React + TypeScript + Vite + TailwindCSS        │
+│   DevOps  :  GitHub Actions CI/CD + Cloudflare CDN          │
+│   Domain  :  atalkaamdhenugauseva.org (custom + HTTPS)      │
+│                                                             │
+│   ❝ The best projects aren't for a grade,                  │
+│     they're for a cause. ❞  🙏                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-[![Visit NGO Website](https://img.shields.io/badge/🌐_Visit-atalkaamdhenugauseva.org-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atalkaamdhenugauseva.org)
+[![](https://img.shields.io/badge/🌐_VISIT_LIVE_SITE-atalkaamdhenugauseva.org-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atalkaamdhenugauseva.org)
 
 </div>
 
 ---
 
-<!-- ===================== QUOTE ===================== -->
+<!-- ══════════════════ SECTION 9: QUOTE ══════════════════ -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
-<br/>
+---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ══════════════════ FOOTER ══════════════════ -->
 
 <div align="center">
 
-![](https://img.shields.io/badge/Made%20with-💜%20%26%20☕-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Based%20in-Shahdol%2C%20MP%20🇮🇳-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Always-Building%20Something%20🚀-7C3AED?style=flat-square)
+```
+> Keep building. Keep shipping. Keep growing. 🚀
+```
+
+![](https://img.shields.io/badge/Made_with-💙_&_☕-00ffff?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/From-Shahdol_MP_🇮🇳-00ffff?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Always-Building_Something-00ff88?style=flat-square)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=130&section=footer&animation=fadeIn&fontColor=A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=blinking&fontColor=00FFFF&reversal=true"/>
