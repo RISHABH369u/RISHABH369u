@@ -156,7 +156,7 @@
 
 <!-- This auto-generates from GitHub data — zero setup! -->
 <a href="https://app.daily.dev/rishabh369u">
-  <img src="https://api.daily.dev/devcards/v2/RISHABH369u.png?r=1qo&type=wide" width="652" alt="Aditya Barman's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/rishabh369u.png?r=1qo&type=wide" width="652" alt="Aditya Barman's Dev Card"/>
 </a>
 
 > 💡 **daily.dev** — A developer news feed card. Sign up at [daily.dev](https://daily.dev) with your GitHub → your card auto-generates! Shows your reading streak, tags, and rank.
