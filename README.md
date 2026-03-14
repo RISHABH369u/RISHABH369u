@@ -7,16 +7,16 @@
 
 <div align="center">
 
-<!-- TYPING SVG - DARK PURPLE THEME -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A855F7&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=const+aditya+%3D+new+FullStackDev(%22Shahdol+MP%22)%3B;%F0%9F%9A%80+Building+real+things+that+matter...;%F0%9F%90%84+Deployed+NGO+site+with+CDN+%40+age+20;%E2%9A%A1+BSc+CS+%7C+React+%7C+TypeScript+%7C+Java;%F0%9F%8C%99+Dark+mode+is+not+optional+—+it%27s+a+lifestyle;%F0%9F%94%A5+246+contributions+%26+still+going+strong)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A855F7&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=const+aditya+%3D+new+FullStackDev(%22Shahdol+MP%22)%3B;%F0%9F%9A%80+Building+real+things+that+matter...;%F0%9F%90%84+Deployed+NGO+site+with+CDN+%40+age+20;%E2%9A%A1+BSc+CS+%7C+React+%7C+TypeScript+%7C+Java;%F0%9F%8C%99+Dark+mode+is+not+optional+%E2%80%94+it%27s+a+lifestyle;%F0%9F%94%A5+246+contributions+%26+still+going+strong)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- STATUS BADGES -->
 ![](https://komarev.com/ghpvc/?username=RISHABH369u&label=👁%20Profile%20Views&color=7C3AED&style=flat-square)
-![](https://img.shields.io/badge/Age-20-7C3AED?style=flat-square&logo=cake&logoColor=white)
+![](https://img.shields.io/badge/Age-20-7C3AED?style=flat-square)
 ![](https://img.shields.io/badge/Location-Shahdol%2C%20MP%20🇮🇳-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=briefcase&logoColor=white)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
 ![](https://img.shields.io/badge/Vibes-Dark%20%26%20Purple%20🌙-7C3AED?style=flat-square)
 
 </div>
@@ -38,11 +38,11 @@
   "age"      : 20,
   "location" : "Shahdol, Madhya Pradesh 🇮🇳",
   "degree"   : "BSc Computer Science",
-
   "role"     : "Full Stack Developer",
   "vibe"     : "🌙 Dark mode only, always",
 
   "stack": {
+                   BEST IN USING AI
     "frontend" : ["React", "TypeScript", "Vite", "Tailwind"],
     "tools"    : ["GitHub Actions", "Cloudflare CDN", "Git"],
     "learning" : ["Next.js", "Node.js", "DSA", "Spring Boot"]
@@ -55,7 +55,7 @@
 
   "fun_facts": [
     "Deployed CDN-powered website before completing 1st year",
-    "Built a real client project at age 20",
+    "Built a real client project at age 20 🤯",
     "246+ GitHub contributions and counting 🔥",
     "Prefers console.log() over sleep() 😅"
   ]
@@ -102,10 +102,10 @@
 
 | Project | Description | Stack | Status |
 |:-------:|:-----------:|:-----:|:------:|
-| 🐄 [**atalkaamdhenugauseva.org**](https://atalkaamdhenugauseva.org) | NGO site — 4000+ rescued cows across 10+ cities | React · TS · Vite · Cloudflare CDN | ![Live](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 🚌 [**CampusBus**](https://rishabh369u.github.io/CampusBus) | Real-time campus bus tracker with ETA & schedules | HTML · CSS · JS | ![Live](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 💼 [**Portfolio**](https://rishabh369u.github.io/side_Portfolio) | Personal developer portfolio | HTML · CSS | ![Live](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
-| 🏠 **THE_MINIRENT** | Mini rental platform | HTML · CSS · JS | ![Private](https://img.shields.io/badge/🔒-Private-7C3AED?style=flat-square) |
+| 🐄 [**atalkaamdhenugauseva.org**](https://atalkaamdhenugauseva.org) | NGO site — 4000+ rescued cows | React · TS · Vite · Cloudflare | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
+| 🚌 [**CampusBus**](https://rishabh369u.github.io/CampusBus) | Real-time campus bus tracker | HTML · CSS · JS | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
+| 💼 [**Portfolio**](https://rishabh369u.github.io/side_Portfolio) | Personal developer portfolio | HTML · CSS | ![](https://img.shields.io/badge/🟢-Live-success?style=flat-square) |
+| 🏠 **THE_MINIRENT** | Mini rental platform | HTML · CSS · JS | ![](https://img.shields.io/badge/🔒-Private-7C3AED?style=flat-square) |
 
 </div>
 
@@ -137,7 +137,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **🔭 Currently Learning**
 
@@ -149,23 +148,18 @@
 
 ---
 
-<!-- ===================== WAKATIME ===================== -->
+<!-- ===================== DEV CARD (NO SETUP NEEDED!) ===================== -->
 
-<h2 align="center">⏱️ <code>wakatime --this-week</code></h2>
+<h2 align="center">🧑‍💻 <code>dev --card</code></h2>
 
 <div align="center">
 
-<!--
-  ⚠️ SETUP REQUIRED:
-  1. Go to https://wakatime.com → Sign up free
-  2. Install WakaTime extension in VS Code
-  3. Replace YOUR_WAKATIME_USERNAME below with your actual username
-  Then this card will show your real coding stats!
--->
+<!-- This auto-generates from GitHub data — zero setup! -->
+<a href="https://app.daily.dev/rishabh369u">
+  <img src="https://api.daily.dev/devcards/v2/RISHABH369u.png?r=1qo&type=wide" width="652" alt="Aditya Barman's Dev Card"/>
+</a>
 
-[![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-
-> 💡 **Setup WakaTime:** Install [WakaTime VS Code extension](https://wakatime.com/vs-code) → Create account → Replace `YOUR_WAKATIME_USERNAME` above with your username
+> 💡 **daily.dev** — A developer news feed card. Sign up at [daily.dev](https://daily.dev) with your GitHub → your card auto-generates! Shows your reading streak, tags, and rank.
 
 </div>
 
@@ -177,13 +171,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHABH369u&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHABH369u&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH369u&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD"/>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH369u&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH369u&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280"/>
 </div>
 
 ---
@@ -193,7 +187,7 @@
 <h2 align="center">🏆 <code>cat achievements.log</code></h2>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RISHABH369u&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RISHABH369u&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -203,7 +197,7 @@
 <h2 align="center">📈 <code>git log --graph --all</code></h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHABH369u&bg_color=0D1117&color=A855F7&line=7C3AED&point=C4B5FD&area_color=7C3AED&area=true&hide_border=true&custom_title=Aditya's%20Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHABH369u&bg_color=0D1117&color=A855F7&line=7C3AED&point=C4B5FD&area_color=7C3AED&area=true&hide_border=true&custom_title=Aditya's%20Contribution%20Graph"/>
 </div>
 
 ---
@@ -222,7 +216,7 @@
 
 ---
 
-<!-- ===================== NGO SPECIAL SECTION ===================== -->
+<!-- ===================== NGO SPECIAL ===================== -->
 
 <div align="center">
 
@@ -253,7 +247,7 @@
 <!-- ===================== QUOTE ===================== -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 <br/>
@@ -268,5 +262,4 @@
 
 </div>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=130&section=footer&animation=fadeIn&fontColor=A855F7"/>
